@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Probes, Projects, Logistics'
-datePublished: '2016-03-12T20:13:07.644Z'
-dateModified: '2016-03-12T20:12:37.586Z'
+datePublished: '2016-03-12T20:36:20.124Z'
+dateModified: '2016-03-12T20:36:10.858Z'
 title: Consultants with Tools
 author: []
 sourcePath: _posts/2016-03-12-falling-forward-standing-back.md
@@ -39,3 +39,12 @@ Stone Urn Logistics -- Breakers, Newport, RI
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a2ab229-d374-4151-a7b5-d7c1d5fc7fdb.jpg)
 
 1848 Aqueduct Pipe Sample -- High Bridge, Manhattan & Bronx over Harlem River
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7f05db4-8a81-4c99-af01-640dec044cfe.jpg)
+
+Wrought Iron Fence Installation -- West 4th Street Church, NY, NY
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9423f570-6270-4fb6-b64a-b38f8fe1cf82.jpg)
+
+Mahogany Box Gutters, lead coated copper liner -- Weeksville, Brooklyn, NY
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15676d73-a0fc-4279-94b3-6ae6628b09a9.jpg)
+
+Re-logging Roof of Hessian Hut, NY, NY
