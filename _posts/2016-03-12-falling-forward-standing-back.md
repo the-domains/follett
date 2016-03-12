@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Probes, Projects, Logistics'
-datePublished: '2016-03-12T23:03:46.349Z'
-dateModified: '2016-03-12T21:48:11.885Z'
+datePublished: '2016-03-12T23:05:52.203Z'
+dateModified: '2016-03-12T23:05:49.248Z'
 title: Consultants with Tools
 author: []
 sourcePath: _posts/2016-03-12-falling-forward-standing-back.md
@@ -29,7 +29,7 @@ Probes, Projects, Logistics
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de4a6241-e543-4fb0-90eb-db9684ba911a.jpg)
 
-WW2 Memorial Wall, Brooklyn, NY
+[WW2 Memorial Wall, Brooklyn, NY][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36c04945-f2bf-417f-b3f9-68a645c18577.jpg)
 
 ABR Waterless Poultice Cleaning, NY Yacht Club Library Fireplaces (2 of them)
@@ -47,7 +47,7 @@ Wrought Iron Fence Installation -- West 4th Street Church, NY, NY
 Mahogany Box Gutters, lead coated copper liner -- Weeksville, Brooklyn, NY
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15676d73-a0fc-4279-94b3-6ae6628b09a9.jpg)
 
-[Re-logging Roof of Hessian Hut, NY, NY][0]
+[Re-logging Roof of Hessian Hut, NY, NY][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51dbefdc-687c-4cee-bd25-30fa6b1e114a.jpg)
 
 Probes -- McCarren Pool, Brooklyn, NY
@@ -55,4 +55,5 @@ Probes -- McCarren Pool, Brooklyn, NY
 
 Probes & Logistics - Castle Inn, Delaware Water Gap, PA
 
-[0]: https://thegrid.ai/follett-project-hessian-hut/
+[0]: https://thegrid.ai/follett-project-ww2-memorial-wall/
+[1]: https://thegrid.ai/follett-project-hessian-hut/
