@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Follett]]></title>
-        <description><![CDATA[Follett]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Ken & David Follett]]></title>
+        <description><![CDATA[Ken & David Follett]]></description>
+        <link>https://thegrid.ai/follett/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 17:38:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 17:48:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/follett/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Ken & David Follett, Heritage Conservation</p>]]></description>
-            <link>undefinedfalling-forward-standing-back/index.html</link>
+            <description><![CDATA[<p>Ken & David Follett</p>]]></description>
+            <link>https://thegrid.ai/follett/falling-forward-standing-back/index.html</link>
             <guid isPermaLink="false">1ae3675a-007f-473c-a7a0-86719daf9b27</guid>
-            <pubDate>Sat, 12 Mar 2016 17:38:13 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 17:47:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
