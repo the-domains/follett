@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Probes, Projects, Logistics'
-datePublished: '2016-03-12T19:45:55.862Z'
-dateModified: '2016-03-12T19:44:18.894Z'
+datePublished: '2016-03-12T20:13:07.644Z'
+dateModified: '2016-03-12T20:12:37.586Z'
 title: Consultants with Tools
 author: []
 sourcePath: _posts/2016-03-12-falling-forward-standing-back.md
@@ -30,6 +30,9 @@ __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de4a6241-e543-4fb0-90eb-db9684ba911a.jpg)
 
 WW2 Memorial Wall, Brooklyn, NY
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36c04945-f2bf-417f-b3f9-68a645c18577.jpg)
+
+ABR Waterless Poultice Cleaning, NY Yacht Club Library Fireplaces (2)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3cb57e7-3aeb-470a-8ed0-4e8eac5a44b3.jpg)
 
 Stone Urn Logistics -- Breakers, Newport, RI
