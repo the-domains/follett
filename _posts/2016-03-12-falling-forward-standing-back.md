@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ken & David Follett -- Consultants with Tools'
-datePublished: '2016-03-12T17:55:13.174Z'
-dateModified: '2016-03-12T17:54:58.531Z'
+datePublished: '2016-03-12T18:01:51.887Z'
+dateModified: '2016-03-12T17:55:30.592Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-falling-forward-standing-back.md
@@ -26,3 +26,5 @@ Ken & David Follett -- Consultants with Tools
 
 Heritage Conservation of the Built Environment
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49262e3f-d08c-4bb6-82cd-525937bb56ea.jpg)
+
+Probes, Projects, Products
