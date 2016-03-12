@@ -2,6 +2,7 @@ name: Follett
 favicon: null
 layout_spectrum: 0.8259109572973102
 typography_spectrum: 0.15142475860193372
+title: 'Ken & David Follett'
 cta:
   domain: null
   bucket: null
