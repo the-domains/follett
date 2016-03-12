@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Probes, Projects, Logistics'
-datePublished: '2016-03-12T20:36:20.124Z'
-dateModified: '2016-03-12T20:36:10.858Z'
+datePublished: '2016-03-12T20:43:10.421Z'
+dateModified: '2016-03-12T20:42:59.751Z'
 title: Consultants with Tools
 author: []
 sourcePath: _posts/2016-03-12-falling-forward-standing-back.md
@@ -48,3 +48,9 @@ Mahogany Box Gutters, lead coated copper liner -- Weeksville, Brooklyn, NY
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15676d73-a0fc-4279-94b3-6ae6628b09a9.jpg)
 
 Re-logging Roof of Hessian Hut, NY, NY
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51dbefdc-687c-4cee-bd25-30fa6b1e114a.jpg)
+
+Probes -- McCarren Pool, Brooklyn, NY
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fe97bcf-bdcb-4810-bb30-c1b23a022432.jpg)
+
+Probes & Logistics - Castle Inn, Delaware Water Gap, PA
