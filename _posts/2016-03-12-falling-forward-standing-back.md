@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Probes, Projects, Logistics'
-datePublished: '2016-03-13T12:48:21.173Z'
-dateModified: '2016-03-13T12:48:15.596Z'
+datePublished: '2016-03-13T12:52:45.129Z'
+dateModified: '2016-03-13T12:52:41.304Z'
 title: Consultants with Tools
 author: []
 sourcePath: _posts/2016-03-12-falling-forward-standing-back.md
@@ -24,14 +24,14 @@ _type: Article
 ---
 # [Consultants with Tools][0]
 
-[Probes, Projects, Logistics][1]
+[Probes, Projects, Logistics][0]
 
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de4a6241-e543-4fb0-90eb-db9684ba911a.jpg)
 
-[WW2 Memorial Wall, Brooklyn, NY][2]
+[WW2 Memorial Wall, Brooklyn, NY][1]
 
-## [Contact Us][1]
+## [Contact Us][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36c04945-f2bf-417f-b3f9-68a645c18577.jpg)
 
 ABR Waterless Poultice Cleaning, NYC Yacht Club Library Fireplaces (2 of them)
@@ -49,7 +49,7 @@ Wrought Iron Fence Installation -- West 4th Street Church, NY, NY
 Mahogany Box Gutters, lead coated copper liner -- Weeksville, Brooklyn, NY
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15676d73-a0fc-4279-94b3-6ae6628b09a9.jpg)
 
-[Re-logging Roof of Hessian Hut, NY, NY][3]
+[Re-logging Roof of Hessian Hut, NY, NY][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51dbefdc-687c-4cee-bd25-30fa6b1e114a.jpg)
 
 Probes -- McCarren Pool, Brooklyn, NY
@@ -57,7 +57,6 @@ Probes -- McCarren Pool, Brooklyn, NY
 
 Probes & Logistics - Castle Inn, Delaware Water Gap, PA
 
-[0]: null
-[1]: https://thegrid.ai/where-what/
-[2]: https://thegrid.ai/follett-project-ww2-memorial-wall/
-[3]: https://thegrid.ai/follett-project-hessian-hut/
+[0]: https://thegrid.ai/where-what/
+[1]: https://thegrid.ai/follett-project-ww2-memorial-wall/
+[2]: https://thegrid.ai/follett-project-hessian-hut/
