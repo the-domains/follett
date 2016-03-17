@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Probes, Projects, Logistics'
-datePublished: '2016-03-13T12:52:45.129Z'
-dateModified: '2016-03-13T12:52:41.304Z'
+datePublished: '2016-03-17T20:51:44.730Z'
+dateModified: '2016-03-17T20:24:50.117Z'
 title: Consultants with Tools
 author: []
 sourcePath: _posts/2016-03-12-falling-forward-standing-back.md
